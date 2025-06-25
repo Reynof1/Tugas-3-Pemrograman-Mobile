@@ -19,3 +19,4 @@ Aplikasi ini adalah tugas ke-3 untuk mata kuliah Pemrograman Mobile, menggunakan
 
 ## Tampilan Aplikasi
 
+https://github.com/Reynof1/Tugas-3-Pemrograman-Mobile/blob/main/Screen_recording_20250625_154310.webm
